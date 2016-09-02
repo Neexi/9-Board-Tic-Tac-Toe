@@ -1,0 +1,84 @@
+/*********************************************************//*
+    Board warning
+    If a coordinate is filled with opponent symbol, give it value 1
+    If a coordinate is empty, give it value 0
+    If a coordinate is filled with our symbol, give it value -4
+    Return 1 if opposing player has an almost complete column/row/diagonal(three adjacent squares with total value 2), otherwise return 0
+*/
+int board_warning(int next_board)
+{
+  int x, y;
+  int check;
+  // Row check
+  for (x = 1; x <= 7 ; x = x+3) {
+    check = 0;
+    for (y = x; y <= x+2 ; y++) {
+      if (board[next_board][y] != player) {
+        check++;
+      } else if (board[next_board][y] == player) {
+        check = check-3;
+      }
+    }
+    if (check == 2) {
+      return 1;
+    }
+  }
+
+  //column check
+  for (x = 1; x <= 3 ; x++) {
+    check = 0;
+    for (y = x; y <= x+6 ; y = y+3) {
+      if (board[next_board][y] != player) {
+        check++;
+      } else if (board[next_board][y] == player) {
+        check = check-3;
+      }
+    }
+    if (check == 2) {
+      return 1;
+    }
+  }
+
+  //diagonal check
+  check = 0;
+  for (x = 1; x <= 9 ; x = x+4) {
+    if (board[next_board][x] != player) {
+        check++;
+      } else if (board[next_board][x] == player) {
+        check = check-3;
+      }
+  }
+  if (check == 2) {
+      return 1;
+  }
+
+  check = 0;
+  for (x = 3; x <= 7 ; x = x+2) {
+    if (board[next_board][x] != player) {
+        check++;
+      } else if (board[next_board][x] == player) {
+        check = check-3;
+      }
+  }
+  if (check == 2) {
+      return 1;
+  }
+
+  //No warning
+  return 0;
+}
+
+./servt9 -p 12345 & ./randt9 -p 12345 & ./randt9 -p 12345
+./servt9 -p 12346 & ./randt9 -p 12346 & ./randt9 -p 12346
+./servt9 -p 12347 & ./randt9 -p 12347 & ./randt9 -p 12347
+
+./servt9 -p 12345 & ./lookt9 -p 12345 & ./randt9 -p 12345
+./servt9 -p 12346 & ./lookt9 -p 12346 & ./randt9 -p 12346
+./servt9 -p 12347 & ./lookt9 -p 12347 & ./randt9 -p 12347
+
+./servt9 -p 12348 & ./randt9 -p 12348 & ./lookt9 -p 12348
+./servt9 -p 12349 & ./randt9 -p 12349 & ./lookt9 -p 12349
+./servt9 -p 12350 & ./randt9 -p 12350 & ./lookt9 -p 12350
+
+./servt9 -p 12360 & ./agent -p 12360 & ./randt9 -p 12360
+

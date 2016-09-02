@@ -1,0 +1,571 @@
+turns 2, move at board 3
+value of move 1 is 143
+value of move 2 is 43
+value of move 3 is 143
+value of move 4 is -9756
+value of move 5 is 143
+value of move 6 is 43
+value of move 7 is 143
+value of move 8 is 43
+value of move 9 is 143
+choosen move is 9
+turns 4, move at board 1
+value of move 1 is 238
+value of move 2 is 138
+value of move 3 is 238
+value of move 4 is -9661
+value of move 5 is 238
+value of move 6 is 138
+value of move 7 is 141
+value of move 8 is 138
+value of move 9 is -9463
+choosen move is 1
+turns 6, move at board 5
+value of move 1 is -9466
+value of move 2 is 136
+value of move 3 is 234
+value of move 4 is -9566
+value of move 5 is 234
+value of move 6 is 136
+value of move 7 is 234
+value of move 8 is 233
+value of move 9 is -9367
+choosen move is 3
+turns 8, move at board 7
+value of move 1 is -9469
+value of move 2 is 230
+value of move 3 is -9469
+value of move 4 is -9568
+value of move 5 is 232
+value of move 6 is 231
+value of move 7 is 231
+value of move 8 is 231
+value of move 9 is -9368
+choosen move is 5
+turns 10, move at board 4
+value of move 1 is -9470
+value of move 2 is 229
+value of move 4 is -9570
+value of move 5 is -9370
+value of move 6 is 229
+value of move 7 is 229
+value of move 8 is 228
+value of move 9 is -9172
+choosen move is 7
+turns 12, move at board 9
+value of move 2 is 227
+value of move 3 is 126
+value of move 4 is 26
+value of move 5 is 226
+value of move 6 is 227
+value of move 7 is 126
+value of move 8 is 226
+value of move 9 is 24
+choosen move is 2
+turns 14, move at board 2
+value of move 1 is 123
+value of move 3 is 24
+value of move 4 is 23
+value of move 5 is 124
+value of move 6 is 226
+value of move 7 is 123
+value of move 8 is 225
+value of move 9 is 25
+choosen move is 6
+turns 16, move at board 8
+value of move 1 is 121
+value of move 2 is -277
+value of move 3 is -76
+value of move 4 is -9278
+value of move 5 is 221
+value of move 6 is 423
+value of move 7 is 121
+value of move 8 is 321
+value of move 9 is -77
+choosen move is 6
+turns 18, move at board 2
+value of move 1 is -9180
+value of move 3 is 522
+value of move 4 is 322
+value of move 5 is 24
+value of move 7 is -9383
+value of move 8 is -180
+value of move 9 is 120
+choosen move is 3
+turns 20, move at board 1
+value of move 2 is 21
+value of move 3 is -989972
+value of move 4 is -279
+value of move 6 is -1000074
+value of move 7 is 217
+value of move 8 is -80
+value of move 9 is -10080
+choosen move is 7
+turns 22, move at board 3
+value of move 2 is -9882
+value of move 3 is -989973
+value of move 4 is 9817
+value of move 5 is -9684
+value of move 6 is -990276
+value of move 8 is -9581
+choosen move is 4
+turns 24, move at board 9
+value of move 3 is -19281
+value of move 4 is -999876
+value of move 5 is -9584
+value of move 6 is -1000079
+value of move 7 is -999776
+value of move 8 is 415
+value of move 9 is -9083
+choosen move is 8
+turns 26, move at board 5
+value of move 1 is -9486
+value of move 2 is 215
+value of move 5 is 113
+value of move 6 is -980681
+value of move 7 is -980379
+value of move 8 is 113
+value of move 9 is 9913
+choosen move is 9
+turns 28, move at board 4
+value of move 1 is 212
+value of move 2 is -9788
+value of move 4 is -980382
+value of move 5 is -989988
+value of move 6 is -980485
+value of move 8 is 12
+choosen move is 1
+turns 30, move at board 6
+value of move 1 is -999884
+value of move 3 is -989888
+value of move 4 is -990085
+value of move 5 is 10110
+value of move 6 is -990286
+value of move 7 is -989984
+value of move 9 is -990085
+choosen move is 5
+turns 32, move at board 6
+value of move 1 is -999686
+value of move 3 is 9910
+value of move 4 is -989887
+value of move 6 is 20011
+value of move 7 is -989786
+value of move 9 is -989887
+choosen move is 6
+turns 34, move at board 7
+value of move 1 is -1009688
+value of move 2 is 950708
+value of move 4 is -989989
+value of move 6 is -980187
+value of move 7 is -999788
+value of move 8 is -979891
+choosen move is 2
+turns 36, move at board 5
+value of move 1 is -990188
+value of move 2 is -990190
+value of move 5 is 989911
+value of move 7 is -990190
+value of move 8 is -990092
+choosen move is 5
+turns 38, move at board 8
+value of move 1 is -980091
+value of move 2 is -970291
+value of move 3 is 1000000
+value of move 4 is -970391
+value of move 7 is -970191
+value of move 8 is 990008
+value of move 9 is -960491
+choosen move is 3
+turns 40, move at board 3
+value of move 2 is -970192
+value of move 5 is 1000000
+value of move 6 is -970490
+value of move 8 is 980207
+choosen move is 5
+turns 42, move at board 1
+value of move 2 is -970292
+value of move 3 is -970291
+value of move 4 is 1009809
+value of move 8 is 990107
+value of move 9 is -970392
+choosen move is 4
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+turns 2, move at board 9
+value of move 1 is 143
+value of move 2 is 43
+value of move 3 is 143
+value of move 4 is 43
+value of move 5 is 143
+value of move 6 is -9756
+value of move 7 is 143
+value of move 8 is 43
+value of move 9 is 143
+choosen move is 9
+turns 4, move at board 1
+value of move 1 is 238
+value of move 2 is 138
+value of move 3 is 238
+value of move 4 is 138
+value of move 5 is 238
+value of move 6 is -9661
+value of move 7 is 238
+value of move 8 is 138
+value of move 9 is -9561
+choosen move is 5
+turns 6, move at board 3
+value of move 1 is 234
+value of move 2 is 234
+value of move 3 is 235
+value of move 4 is 233
+value of move 5 is -9166
+value of move 6 is -9566
+value of move 7 is 235
+value of move 8 is 234
+value of move 9 is -9466
+choosen move is 3
+turns 8, move at board 5
+value of move 1 is 232
+value of move 2 is 232
+value of move 4 is 231
+value of move 5 is -9368
+value of move 6 is -9567
+value of move 7 is 232
+value of move 8 is 231
+value of move 9 is -9468
+choosen move is 7
+turns 10, move at board 7
+value of move 1 is 229
+value of move 2 is 227
+value of move 3 is -9471
+value of move 4 is 230
+value of move 5 is -9372
+value of move 6 is -9371
+value of move 8 is 228
+value of move 9 is -9470
+choosen move is 4
+turns 12, move at board 4
+value of move 1 is 228
+value of move 2 is 227
+value of move 3 is -173
+value of move 5 is -74
+value of move 6 is -9273
+value of move 7 is -172
+value of move 8 is 227
+value of move 9 is -9375
+choosen move is 1
+turns 14, move at board 6
+value of move 1 is 227
+value of move 2 is 226
+value of move 3 is 27
+value of move 4 is 25
+value of move 5 is 127
+value of move 6 is 23
+value of move 7 is 26
+value of move 8 is 227
+choosen move is 1
+turns 16, move at board 3
+value of move 1 is -990065
+value of move 2 is 523
+value of move 4 is -9879
+value of move 6 is 23
+value of move 7 is -9877
+value of move 8 is -9477
+value of move 9 is -75
+choosen move is 2
+turns 18, move at board 8
+value of move 1 is -990069
+value of move 2 is 321
+value of move 3 is -9478
+value of move 4 is 22
+value of move 5 is 121
+value of move 6 is 220
+value of move 7 is 120
+value of move 8 is 422
+value of move 9 is 20
+choosen move is 8
+turns 20, move at board 2
+value of move 1 is -990072
+value of move 2 is 221
+value of move 3 is 20
+value of move 4 is 19
+value of move 5 is 220
+value of move 6 is 221
+value of move 7 is 319
+value of move 9 is 321
+choosen move is 9
+turns 22, move at board 7
+value of move 1 is -999974
+value of move 2 is -9782
+value of move 3 is -19780
+value of move 5 is 9817
+value of move 6 is 17
+value of move 8 is -181
+value of move 9 is -999774
+choosen move is 5
+turns 24, move at board 2
+value of move 1 is -989877
+value of move 2 is 217
+value of move 3 is -9683
+value of move 4 is -9584
+value of move 5 is -989777
+value of move 6 is 9915
+value of move 7 is -9783
+choosen move is 6
+turns 26, move at board 8
+value of move 1 is -999679
+value of move 3 is -9787
+value of move 4 is 9813
+value of move 5 is -999680
+value of move 6 is -999779
+value of move 7 is 19914
+value of move 9 is -989779
+choosen move is 7
+turns 28, move at board 9
+value of move 2 is -19687
+value of move 3 is -19684
+value of move 4 is 29712
+value of move 5 is -999682
+value of move 6 is -989981
+value of move 8 is -9886
+choosen move is 4
+turns 30, move at board 5
+value of move 1 is -980084
+value of move 4 is -989984
+value of move 5 is -999784
+value of move 6 is -999884
+value of move 8 is 960112
+value of move 9 is 970516
+choosen move is 9
+turns 32, move at board 6
+value of move 2 is 989916
+value of move 3 is 10009
+value of move 4 is -980085
+value of move 5 is -989885
+value of move 6 is -989985
+value of move 7 is -970084
+choosen move is 2
+turns 34, move at board 1
+value of move 1 is -980287
+value of move 2 is 980312
+value of move 4 is -980287
+value of move 7 is -980187
+value of move 8 is 979910
+value of move 9 is 1000000
+choosen move is 9
+turns 36, move at board 3
+value of move 1 is 1000113
+value of move 4 is -979988
+value of move 6 is -970287
+value of move 7 is -979988
+value of move 8 is 980108
+value of move 9 is -970088
+choosen move is 1
+
+
+
+turns 2, move at board 9
+value of move 1 is 143
+value of move 2 is 43
+value of move 3 is 143
+value of move 4 is 43
+value of move 5 is 143
+value of move 6 is 43
+value of move 7 is 143
+value of move 8 is -9756
+value of move 9 is 143
+choosen move is 9
+turns 4, move at board 1
+value of move 1 is 238
+value of move 2 is 138
+value of move 3 is 238
+value of move 4 is 138
+value of move 5 is 238
+value of move 6 is 138
+value of move 7 is 238
+value of move 8 is -9661
+value of move 9 is -9561
+choosen move is 7
+turns 6, move at board 3
+value of move 1 is 234
+value of move 2 is 233
+value of move 3 is 234
+value of move 4 is 233
+value of move 5 is 234
+value of move 6 is 233
+value of move 7 is -9367
+value of move 8 is -9566
+value of move 9 is -9466
+choosen move is 5
+turns 8, move at board 7
+value of move 1 is 232
+value of move 2 is 134
+value of move 4 is 132
+value of move 5 is -9169
+value of move 6 is 232
+value of move 7 is -9468
+value of move 8 is -9568
+value of move 9 is -9467
+choosen move is 1
+turns 10, move at board 5
+value of move 1 is -9470
+value of move 2 is 228
+value of move 3 is 229
+value of move 4 is 228
+value of move 5 is -9370
+value of move 6 is 227
+value of move 8 is -9370
+value of move 9 is -9470
+choosen move is 3
+turns 12, move at board 8
+value of move 1 is -72
+value of move 2 is 227
+value of move 3 is 226
+value of move 4 is 227
+value of move 5 is 225
+value of move 6 is 228
+value of move 7 is -72
+value of move 8 is -172
+choosen move is 6
+turns 14, move at board 2
+value of move 1 is -76
+value of move 2 is 225
+value of move 3 is -74
+value of move 4 is 125
+value of move 5 is 126
+value of move 6 is 9424
+value of move 7 is -75
+value of move 8 is 24
+value of move 9 is 25
+choosen move is 6
+turns 16, move at board 3
+value of move 1 is -178
+value of move 2 is -276
+value of move 3 is -478
+value of move 4 is 323
+value of move 6 is -990267
+value of move 7 is 423
+value of move 9 is 223
+choosen move is 7
+turns 18, move at board 6
+value of move 1 is 9821
+value of move 4 is -78
+value of move 5 is 21
+value of move 6 is -999969
+value of move 7 is -999869
+value of move 8 is -9481
+value of move 9 is -180
+choosen move is 1
+turns 20, move at board 4
+value of move 1 is -999572
+value of move 2 is 9919
+value of move 3 is 9917
+value of move 4 is 320
+value of move 5 is 322
+value of move 6 is -79
+value of move 7 is -999672
+value of move 8 is 218
+value of move 9 is 221
+choosen move is 2
+turns 22, move at board 5
+value of move 1 is -989975
+value of move 2 is 9917
+value of move 4 is 317
+value of move 5 is 16
+value of move 6 is 9917
+value of move 8 is -184
+value of move 9 is 9915
+choosen move is 2
+turns 24, move at board 1
+value of move 1 is -999978
+value of move 2 is -1000078
+value of move 3 is 9714
+value of move 6 is 19714
+value of move 8 is 19714
+value of move 9 is 19613
+choosen move is 6
+turns 26, move at board 9
+value of move 2 is -1000080
+value of move 3 is 19711
+value of move 4 is 9713
+value of move 5 is -287
+value of move 6 is -990180
+value of move 7 is -990180
+value of move 8 is 19512
+choosen move is 3
+turns 28, move at board 3
+value of move 1 is 19613
+value of move 2 is -1000282
+value of move 4 is 19712
+value of move 6 is -990282
+value of move 9 is 113
+choosen move is 4
+turns 30, move at board 4
+value of move 1 is 29411
+value of move 3 is 9810
+value of move 5 is 19609
+value of move 6 is -980485
+value of move 7 is -980486
+value of move 8 is 29310
+value of move 9 is 11
+choosen move is 1
+turns 32, move at board 8
+value of move 1 is -980287
+value of move 2 is -980487
+value of move 3 is 9811
+value of move 4 is 19709
+value of move 5 is 19409
+value of move 7 is -980387
+value of move 8 is 19810
+choosen move is 8
+turns 34, move at board 1
+value of move 1 is -990288
+value of move 2 is -980489
+value of move 3 is 49305
+value of move 9 is 39007
+choosen move is 3
+turns 36, move at board 2
+value of move 2 is -990289
+value of move 3 is -990288
+value of move 4 is 19707
+value of move 7 is -990190
+value of move 8 is -990390
+value of move 9 is 980406
+choosen move is 9
+turns 38, move at board 6
+value of move 4 is 999505
+value of move 5 is -95
+value of move 6 is 990008
+value of move 7 is -970491
+value of move 8 is -980491
+choosen move is 4
+turns 40, move at board 9
+value of move 2 is 989904
+value of move 4 is 989907
+value of move 5 is 999505
+value of move 7 is -950994
+value of move 8 is -960995
+choosen move is 5
+turns 42, move at board 8
+value of move 2 is 999804
+value of move 3 is -980495
+value of move 4 is 999806
+value of move 5 is -940896
+value of move 7 is -970596
+choosen move is 4
+turns 44, move at board 7
+value of move 2 is 999604
+value of move 4 is -960695
+value of move 5 is -960597
+value of move 7 is -960696
+value of move 8 is -980598
+value of move 9 is 1000000
+choosen move is 9
+turns 46, move at board 2
+value of move 2 is 1000000
+value of move 3 is 1029504
+value of move 4 is -950696
+value of move 7 is 1000000
+value of move 8 is -950897
+choosen move is 3
